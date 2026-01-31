@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Laptop Dell XPS 13",
+      "price": 1299.99,
+      "description": "Laptop ultraportátil con procesador Intel Core i7, 16GB RAM y 512GB SSD"
+    },
+    {
+      "id": 2,
+      "name": "Mouse Logitech MX Master 3",
+      "price": 99.99,
+      "description": "Mouse inalámbrico ergonómico con tecnología MagSpeed"
+    },
+    {
+      "id": 3,
+      "name": "Teclado Mecánico Keychron K2",
+      "price": 89.99,
+      "description": "Teclado mecánico inalámbrico compacto con switches Gateron"
+    }
+  ]
+}
